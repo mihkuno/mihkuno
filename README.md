@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @mihkuno
 - 👀 I’m interested in ice cream
-- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate project ideas
+- - 🌱 I’m currently learning flutter but it's still buggy so I go with React
+
 - 📫 How to reach me facebook.com/quaxode
 
 <!---
