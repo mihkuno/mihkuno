@@ -63,16 +63,16 @@ Congratulations you found the first one!
 
 <div>
   <a href=""> 
-    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mihkuno&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=20" /> 
+    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mihkuno&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=15" /> 
   </a>
 
-  ##### Fun fact: I solved the world's oldest question with a single line of code
+  ##### I solved the world's oldest question with a single line of code
   <!-- wi*quL3fcV -->
   
-  ```javascript
-  // Which came first: the chicken or the egg?
-  console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-  
+  ```python
+  # Which came first: the chicken or egg?
+  print(['🥚', '🐣', '🐥', '🐔'].sort())
+
   >>> [ '🐔', '🐣', '🐥', '🥚' ]
   ```
 </div>
