@@ -12,7 +12,7 @@ Congratulations you found the first one!
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/quaxode)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihkuno/)
 
-<img align="right" width="275" height="275" src="https://i1.sndcdn.com/avatars-2Q4hRIlzMu7AXiLb-Zpi7PQ-t500x500.jpg">
+<img align="right" width="200" height="200" src="https://i1.sndcdn.com/avatars-2Q4hRIlzMu7AXiLb-Zpi7PQ-t500x500.jpg">
 
 ### 👋 I'm Joeniño Cainday (a.k.a mihkuno):
 
