@@ -66,7 +66,7 @@ Congratulations you found the first one!
     <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mihkuno&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=15" /> 
   </a>
 
-  ##### I solved the world's oldest question with a single line of code
+  ##### Fun fact: I solved the world's oldest question with a single line of Javascript code
   <!-- wi*quL3fcV -->
   
   ```python
