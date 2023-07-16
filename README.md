@@ -8,23 +8,35 @@ Congratulations you found the first one!
 
 <h2> Hello world, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="25px"></h2>
 
-<img align="right" width="370" src="https://github.com/mihkuno/mihkuno/assets/26486389/50176038-ce0e-4cee-a98a-5fdf09976c74">
+<img align="right" width="350" src="https://github.com/mihkuno/mihkuno/assets/26486389/50176038-ce0e-4cee-a98a-5fdf09976c74">
+
+### 👋 I'm Joeniño Cainday (a.k.a mihkuno):
+
+&nbsp;&nbsp;&nbsp;  🏫 University of Science and Technology of Southern PH
+  
+&nbsp;&nbsp;&nbsp; 🎓 2nd Year Computer Science Student 
+
+&nbsp;&nbsp;&nbsp; 🌱 Former CS lead of Google Developer Student Clubs USTP
+
+&nbsp;&nbsp;&nbsp; 🪐 Develops robotics, web, and mobile AIoT based projects
+
+
+<h2 align="center"></h2>
+
+<img align="left" width="150" src="https://github.com/mihkuno/mihkuno/assets/26486389/c8550d8f-300e-4f79-8e46-cc865c8c08f4">
+
+✨ I like slice of life, Minecraft, L4D2
+
+:speech_balloon: Ask me about literally anything!
+
+:test_tube: Researching CTFs, neural networks, ML & simulation
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caindayjoeninyo@gmail.com)
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/quaxode)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihkuno/)
 
-
-### 👋 I'm Joeniño Cainday (a.k.a mihkuno):
-
-- 🎓 2nd Year Computer Science Student - USTP CDO
-- 🌱 Former CS Core lead of GDSC USTP
-- :test_tube: Researching CTFs, neural networks, models & simulation
-- 🪐 Develops robotics, web, and mobile AIoT based projects
-- ✨ I like romcom / slice of life / Minecraft / Left 4 Dead 2
-- :speech_balloon: Ask me about DevOps or literally anything!
-
 <h2 align="center"></h2>
+
 
 ### Languages and Tools 🛠 
 
