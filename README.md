@@ -8,7 +8,7 @@ Congratulations you found the first one!
 
 <h2> Hello world, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="25px"></h2>
 
-<img align="right" width="400" src="https://github.com/mihkuno/mihkuno/assets/26486389/50176038-ce0e-4cee-a98a-5fdf09976c74">
+<img align="right" width="370" src="https://github.com/mihkuno/mihkuno/assets/26486389/50176038-ce0e-4cee-a98a-5fdf09976c74">
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caindayjoeninyo@gmail.com)
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/quaxode)
@@ -18,11 +18,11 @@ Congratulations you found the first one!
 ### 👋 I'm Joeniño Cainday (a.k.a mihkuno):
 
 - 🎓 2nd Year Computer Science Student - USTP CDO
-- 🌱 Former computer science lead of Google Develop Student Clubs USTP
-- :test_tube: Researching capture the flag, neural networks, models & simulation
-- 🪐 Mostly develops robotics, web, and mobile AIoT devops-based projects
-- ✨ I watch & play romcom / slice of life / Minecraft / Left 4 Dead 2
-- :speech_balloon: Ask me about cybersecurity, CMS, or literally anything!
+- 🌱 Former CS Core lead of GDSC USTP
+- :test_tube: Researching CTFs, neural networks, models & simulation
+- 🪐 Develops robotics, web, and mobile AIoT based projects
+- ✨ I like romcom / slice of life / Minecraft / Left 4 Dead 2
+- :speech_balloon: Ask me about DevOps or literally anything!
 
 <h2 align="center"></h2>
 
