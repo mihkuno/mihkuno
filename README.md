@@ -8,24 +8,31 @@ Congratulations you found the first one!
 
 <h2> Hello world, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="25px"></h2>
 
+<div align="right">
+  <a href="https://www.codewars.com/users/mihkuno">
+    <img align="left" src="https://www.codewars.com/users/mihkuno/badges/small" alt="Codewars Badge" />
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mihkuno.mihkuno" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=mihkuno&color=brightgreen" alt="watching_count" />
+</div>
+
 <img align="right" width="350" src="https://github.com/mihkuno/mihkuno/assets/26486389/50176038-ce0e-4cee-a98a-5fdf09976c74">
 
 ### 👋 I'm Joeniño Cainday (a.k.a mihkuno):
 
-&nbsp;&nbsp;&nbsp; 🎓 2nd Year Computer Science Student 
-
 &nbsp;&nbsp;&nbsp; 🏫 University of Science and Technology of Southern PH
+
+&nbsp;&nbsp;&nbsp; 🎓 2nd Year Computer Science Student 
 
 &nbsp;&nbsp;&nbsp; 🌱 Pioneer CS lead of Google Developer Student Clubs USTP
 
-&nbsp;&nbsp;&nbsp; 🪐 Develops robotics, AIoT web and mobile projects
-
+&nbsp;&nbsp;&nbsp; :test_tube: CTFs, Neural Networks, AIoT, ML, Web & Mobile DevOps
 
 <h2 align="center"></h2>
 
 <img align="left" width="150" src="https://github.com/mihkuno/mihkuno/assets/26486389/c8550d8f-300e-4f79-8e46-cc865c8c08f4">
 
-:test_tube: CTFs, Neural Networks, ML & Simulation
+
 
 ✨ I like Slice of life, Minecraft, L4D2
 
@@ -35,26 +42,32 @@ Congratulations you found the first one!
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/quaxode)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihkuno/)
 
+
+
+
 <h2 align="center"></h2>
 
+
+<a href="https://stackoverflow.com/users/12724665/mihkuno">
+    <img align="right" width="14%" src="https://github-readme-stackoverflow.vercel.app/?userID=12724665" alt="Stackoverflow profile" />
+</a>
 
 ### Languages and Tools 🛠 
 
 <a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihkuno&theme=react&line_height=10&hide=css"/>
+  <img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihkuno&theme=react&line_height=10&hide=css"/>
 </a>
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=openjdk&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat-square&logo=Typescript&logoColor=%23ffffff&labelColor=%233178C6&color=%233178C6)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=MySQL&logoColor=%23ffffff&labelColor=%233178C6&color=%233178C6)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=MySQL&logoColor=%23ffffff&labelColor=%233178C6&color=%233178C6)
 
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
@@ -62,16 +75,24 @@ Congratulations you found the first one!
 <h2 align="center"></h2>
 
 <div align="center">
-  
-  [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31jgxjbcocr3np2gvr37vsnpkbni)
-  
+  <a href="https://open.spotify.com/user/31jgxjbcocr3np2gvr37vsnpkbni">
+      <img align="left" width="60%" 
+          src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Cherry's spotify" />
 </div>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
 
 <h2 align="center"></h2>
 
 <div>
   <a href=""> 
-    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mihkuno&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=15" /> 
+    <img align="left" width="51%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mihkuno&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=20" /> 
   </a>
 
   ##### Fun fact: I solved the world's oldest question with a single line of Javascript code
@@ -80,7 +101,12 @@ Congratulations you found the first one!
   ```python
   # Which came first: the chicken or egg?
   print(['🥚', '🐣', '🐥', '🐔'].sort())
-
   >>> [ '🐔', '🐣', '🐥', '🥚' ]
   ```
 </div>
+
+<h2 align="center"></h2>
+
+<img src="https://myreadme.vercel.app/api/embed/mihkuno?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+
