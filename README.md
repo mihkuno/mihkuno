@@ -16,7 +16,7 @@ Congratulations you found the first one!
   <img src="https://komarev.com/ghpvc/?username=mihkuno&color=brightgreen" alt="watching_count" />
 </div>
 
-<img align="right" width="350" src="https://github.com/mihkuno/mihkuno/assets/26486389/50176038-ce0e-4cee-a98a-5fdf09976c74">
+<img align="right" width="315" src="https://github.com/mihkuno/mihkuno/assets/26486389/44b33523-f4d0-45f3-92a4-bb0ea380eddd">
 
 ### 👋 I'm Joeniño Cainday (a.k.a mihkuno):
 
@@ -33,7 +33,6 @@ Congratulations you found the first one!
 <img align="left" width="150" src="https://github.com/mihkuno/mihkuno/assets/26486389/c8550d8f-300e-4f79-8e46-cc865c8c08f4">
 
 
-
 ✨ I like Slice of life, Minecraft, L4D2
 
 :speech_balloon: Ask me about literally anything!
@@ -42,8 +41,7 @@ Congratulations you found the first one!
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/quaxode)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihkuno/)
 
-
-
+<img align="right" src="https://tryhackme-badges.s3.amazonaws.com/joenino.cainday.png" alt="TryHackMe">
 
 <h2 align="center"></h2>
 
@@ -78,14 +76,12 @@ Congratulations you found the first one!
           src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Cherry's spotify" />
 </div>
 
-
 <h2 align="center"></h2>
-
 
 <div>  
   <a href=""> 
     <img align="right" width="425" 
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=mihkuno&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=20" /> 
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=mihkuno&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=24" /> 
   </a>
   
   
@@ -96,6 +92,7 @@ Congratulations you found the first one!
   ```python
   # Which came first: the chicken or egg?
   print(['🥚', '🐣', '🐥', '🐔'].sort())
+
   >>> [ '🐔', '🐣', '🐥', '🥚' ]
   ```
 </div>
