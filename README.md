@@ -12,24 +12,24 @@ Congratulations you found the first one!
 
 ### 👋 I'm Joeniño Cainday (a.k.a mihkuno):
 
-&nbsp;&nbsp;&nbsp;  🏫 University of Science and Technology of Southern PH
-  
 &nbsp;&nbsp;&nbsp; 🎓 2nd Year Computer Science Student 
 
-&nbsp;&nbsp;&nbsp; 🌱 Former CS lead of Google Developer Student Clubs USTP
+&nbsp;&nbsp;&nbsp; 🏫 University of Science and Technology of Southern PH
 
-&nbsp;&nbsp;&nbsp; 🪐 Develops robotics, web, and mobile AIoT based projects
+&nbsp;&nbsp;&nbsp; 🌱 Pioneer CS lead of Google Developer Student Clubs USTP
+
+&nbsp;&nbsp;&nbsp; 🪐 Develops robotics, AIoT web and mobile projects
 
 
 <h2 align="center"></h2>
 
 <img align="left" width="150" src="https://github.com/mihkuno/mihkuno/assets/26486389/c8550d8f-300e-4f79-8e46-cc865c8c08f4">
 
-✨ I like slice of life, Minecraft, L4D2
+:test_tube: CTFs, Neural Networks, ML & Simulation
+
+✨ I like Slice of life, Minecraft, L4D2
 
 :speech_balloon: Ask me about literally anything!
-
-:test_tube: Researching CTFs, neural networks, ML & simulation
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caindayjoeninyo@gmail.com)
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/quaxode)
