@@ -50,7 +50,7 @@ Congratulations you found the first one!
 ### Languages and Tools 🛠 
 
 <a href="https://stackoverflow.com/users/12724665/mihkuno">
-    <img align="right" width="200" src="https://github-readme-stackoverflow.vercel.app/?userID=12724665&layout=compact" alt="Stackoverflow profile" />
+    <img align="right" width="215" src="https://github-readme-stackoverflow.vercel.app/?userID=12724665&layout=compact" alt="Stackoverflow profile" />
 </a>
 
 <a href="">
