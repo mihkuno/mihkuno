@@ -17,17 +17,12 @@ Congratulations you found the first one!
 
 ### 👋 I'm Joeniño Cainday (a.k.a mihkuno):
 
-&nbsp;&nbsp;&nbsp;&nbsp; 🎓 2nd Year Computer Science Student - USTP CDO
-
-&nbsp;&nbsp;&nbsp;&nbsp; 🌱 Former computer science lead of Google Develop Student Clubs USTP
-
-&nbsp;&nbsp;&nbsp;&nbsp; :test_tube: Researching capture the flag, neural networks, models & simulation
-
-&nbsp;&nbsp;&nbsp;&nbsp; 🪐 Mostly develops robotics, web, and mobile AIoT devops-based projects
-
-&nbsp;&nbsp;&nbsp;&nbsp; ✨ I watch & play romcom / slice of life / Minecraft / Left 4 Dead 2
-
-&nbsp;&nbsp;&nbsp;&nbsp; :speech_balloon: Ask me about cybersecurity, CMS, or literally anything!
+- 🎓 2nd Year Computer Science Student - USTP CDO
+- 🌱 Former computer science lead of Google Develop Student Clubs USTP
+- :test_tube: Researching capture the flag, neural networks, models & simulation
+- 🪐 Mostly develops robotics, web, and mobile AIoT devops-based projects
+- ✨ I watch & play romcom / slice of life / Minecraft / Left 4 Dead 2
+- :speech_balloon: Ask me about cybersecurity, CMS, or literally anything!
 
 <h2 align="center"></h2>
 
