@@ -50,11 +50,11 @@ Congratulations you found the first one!
 ### Languages and Tools 🛠 
 
 <a href="https://stackoverflow.com/users/12724665/mihkuno">
-    <img align="right" width="25%" src="https://github-readme-stackoverflow.vercel.app/?userID=12724665&layout=compact" alt="Stackoverflow profile" />
+    <img align="right" width="200" src="https://github-readme-stackoverflow.vercel.app/?userID=12724665&layout=compact" alt="Stackoverflow profile" />
 </a>
 
 <a href="">
-  <img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihkuno&theme=react&line_height=10&hide=css"/>
+  <img align="left" width="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihkuno&theme=react&line_height=10&hide=css"/>
 </a>
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=openjdk&logoColor=ffffff)
@@ -74,26 +74,17 @@ Congratulations you found the first one!
 
 <div align="center">
   <a href="https://open.spotify.com/user/31jgxjbcocr3np2gvr37vsnpkbni">
-      <img align="left" width="60%" 
+      <img align="center" width="500" 
           src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Cherry's spotify" />
 </div>
 
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
 
 <h2 align="center"></h2>
 
 
 <div>  
   <a href=""> 
-    <img align="right" width="51%" 
+    <img align="right" width="425" 
         src="https://github-readme-stats-sigma-five.vercel.app/api?username=mihkuno&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=20" /> 
   </a>
   
