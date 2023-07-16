@@ -8,7 +8,7 @@ Congratulations you found the first one!
 
 <h2> Hello world, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="25px"></h2>
 
-<img align="right" width="400" src="https://github.com/mihkuno/mihkuno/assets/26486389/57d79496-ca1b-45ea-ac2d-bbb5707a7af7">
+<img align="right" width="400" src="https://github.com/mihkuno/mihkuno/assets/26486389/50176038-ce0e-4cee-a98a-5fdf09976c74">
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caindayjoeninyo@gmail.com)
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/quaxode)
