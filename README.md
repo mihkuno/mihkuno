@@ -90,18 +90,30 @@ Congratulations you found the first one!
 
 <h2 align="center"></h2>
 
-<div>
-  <a href=""> 
-    <img align="left" width="51%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mihkuno&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=20" /> 
-  </a>
 
-  ##### Fun fact: I solved the world's oldest question with a single line of Javascript code
-  <!-- wi*quL3fcV -->
+<div>  
+  <a href=""> 
+    <img align="right" width="51%" 
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=mihkuno&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=20" /> 
+  </a>
   
+  
+<div align="left">
+    <h5>Fun fact: I solved the world's oldest question with a single line of Javascript code</h5>
+  <!-- wi*quL3fcV -->
+
   ```python
   # Which came first: the chicken or egg?
   print(['🥚', '🐣', '🐥', '🐔'].sort())
   >>> [ '🐔', '🐣', '🐥', '🥚' ]
   ```
 </div>
+
+</div>
+
+
+
+
+
+
 
