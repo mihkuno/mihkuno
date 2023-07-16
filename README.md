@@ -47,12 +47,11 @@ Congratulations you found the first one!
 
 <h2 align="center"></h2>
 
+### Languages and Tools 🛠 
 
 <a href="https://stackoverflow.com/users/12724665/mihkuno">
-    <img align="right" width="14%" src="https://github-readme-stackoverflow.vercel.app/?userID=12724665" alt="Stackoverflow profile" />
+    <img align="right" width="25%" src="https://github-readme-stackoverflow.vercel.app/?userID=12724665&layout=compact" alt="Stackoverflow profile" />
 </a>
-
-### Languages and Tools 🛠 
 
 <a href="">
   <img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihkuno&theme=react&line_height=10&hide=css"/>
@@ -67,7 +66,6 @@ Congratulations you found the first one!
 ![VS Code](http://img.shields.io/badge/-Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=MySQL&logoColor=%23ffffff&labelColor=%233178C6&color=%233178C6)
 
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
@@ -79,6 +77,8 @@ Congratulations you found the first one!
       <img align="left" width="60%" 
           src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Cherry's spotify" />
 </div>
+
+<br>
 
 <br>
 
@@ -104,9 +104,4 @@ Congratulations you found the first one!
   >>> [ '🐔', '🐣', '🐥', '🥚' ]
   ```
 </div>
-
-<h2 align="center"></h2>
-
-<img src="https://myreadme.vercel.app/api/embed/mihkuno?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
 
