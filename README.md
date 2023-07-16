@@ -63,7 +63,7 @@ Congratulations you found the first one!
 
 <div align="center">
   
-  [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]()
+  [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31jgxjbcocr3np2gvr37vsnpkbni)
   
 </div>
 
