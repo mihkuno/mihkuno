@@ -22,7 +22,7 @@ Congratulations you found the first one!
 
 &nbsp;&nbsp;&nbsp; 🏫 University of Science and Technology of Southern PH
 
-&nbsp;&nbsp;&nbsp; 🎓 2nd Year Computer Science Student 
+&nbsp;&nbsp;&nbsp; 🎓 3rd Year Computer Science Student 
 
 &nbsp;&nbsp;&nbsp; 🌱 Pioneer CS lead of Google Developer Student Clubs USTP
 
@@ -33,7 +33,7 @@ Congratulations you found the first one!
 <img align="left" width="147" src="https://github.com/mihkuno/mihkuno/assets/26486389/c8550d8f-300e-4f79-8e46-cc865c8c08f4">
 
 
-✨ I like Slice of life, Minecraft, L4D2
+✨ I like Slice of life, Minecraft, Left 4 Dead, Watch Dogs
 
 :speech_balloon: Ask me about literally anything!
 
