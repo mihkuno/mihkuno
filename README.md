@@ -69,26 +69,28 @@ Programming Languages
 &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30px" height="30px" title="C++" />
 &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30px" height="30px" title="Python" />
 &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30px" height="30px" title="Java" />
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30px" height="30px" title="MySQL" />
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30px" height="30px" title="MongoDB" />
 </div>
 <img align='right' src="https://stackoverflow-readme-profile.johannchopin.fr/profile/12724665?theme=dark&website=true&location=true" width="220px" alt="mihkuno SO profile">
 
 Frameworks & Libraries
 <div align='left'>
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" alt="Deno" width="30px" height="30px" title="Deno" />
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="Pytorch" width="30px" height="30px" title="Pytorch" />
 &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30px" height="30px" title="React" />
 &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30px" height="30px" title="Next.js" />
 &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="30px" height="30px" title="Express.js" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30px" height="30px" title="Node.js" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="30px" height="30px" title="Pands" />
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="30px" height="30px" title="Pandas" />
 &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="30px" height="30px" title="Matplotlib" />
 &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Threejs" width="30px" height="30px" title="Threejs" />
 &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" alt="Framermotion" width="30px" height="30px" title="Framermotion" />
 </div>
 <br>
 
-
 Tools & Technologies
 <div align='left'>
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" alt="Deno" width="30px" height="30px" title="Deno" />
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30px" height="30px" title="Node.js" />
 &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="30px" height="30px" title="Docker" />
 &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30px" height="30px" title="Git" />
 &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="30px" height="30px" title="OpenCV" />
