@@ -41,7 +41,7 @@ Congratulations you found the first one!
 
 <img align="left" width="200" src="https://github.com/mihkuno/mihkuno/assets/26486389/c8550d8f-300e-4f79-8e46-cc865c8c08f4" alt="menhera motivation">
 
-<img align="right" width="350" src="https://github.com/user-attachments/assets/b250eeb2-a19f-448c-9e77-adf04a161306" alt="hayasaka crying" />
+<img align="right" width="310" src="https://github.com/user-attachments/assets/b250eeb2-a19f-448c-9e77-adf04a161306" alt="hayasaka crying" />
 
 ### ✨ I Like  
 
@@ -60,50 +60,50 @@ Congratulations you found the first one!
 
 ### Languages and Tools 🛠 
 
-<img align="left" width="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihkuno&theme=react&line_height=10&hide=css"/>
+<img align="left" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihkuno&theme=react&line_height=10&hide=css"/>
 
 Programming Languages
-<img align="right" width="250" src="https://tryhackme-badges.s3.amazonaws.com/joenino.cainday.png" alt="TryHackMe">
+<img align="right" width="220" src="https://tryhackme-badges.s3.amazonaws.com/joenino.cainday.png" alt="TryHackMe">
 <div align='left'>
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="35px" height="35px" title="TypeScript" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35px" height="35px" title="JavaScript" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="35px" height="35px" title="C#" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35px" height="35px" title="C++" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35px" height="35px" title="Python" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="35px" height="35px" title="Java" />
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30px" height="30px" title="TypeScript" />
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30px" height="30px" title="JavaScript" />
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="30px" height="30px" title="C#" />
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30px" height="30px" title="C++" />
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30px" height="30px" title="Python" />
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30px" height="30px" title="Java" />
 </div>
-<img align='right' src="https://stackoverflow-readme-profile.johannchopin.fr/profile/12724665?theme=dark&website=true&location=true" width="250px" alt="mihkuno SO profile">
+<img align='right' src="https://stackoverflow-readme-profile.johannchopin.fr/profile/12724665?theme=dark&website=true&location=true" width="220px" alt="mihkuno SO profile">
 
 Frameworks & Libraries
 <div align='left'>
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" alt="Deno" width="35px" height="35px" title="Deno" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="35px" height="35px" title="React" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="35px" height="35px" title="Next.js" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="35px" height="35px" title="Express.js" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="35px" height="35px" title="Node.js" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="35px" height="35px" title="Pands" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="35px" height="35px" title="Matplotlib" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Threejs" width="35px" height="35px" title="Threejs" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" alt="Framermotion" width="35px" height="35px" title="Framermotion" />
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" alt="Deno" width="30px" height="30px" title="Deno" />
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30px" height="30px" title="React" />
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30px" height="30px" title="Next.js" />
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="30px" height="30px" title="Express.js" />
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30px" height="30px" title="Node.js" />
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="30px" height="30px" title="Pands" />
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="30px" height="30px" title="Matplotlib" />
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Threejs" width="30px" height="30px" title="Threejs" />
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" alt="Framermotion" width="30px" height="30px" title="Framermotion" />
 </div>
 <br>
 
 
 Tools & Technologies
 <div align='left'>
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="35px" height="35px" title="Docker" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="35px" height="35px" title="Git" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="35px" height="35px" title="OpenCV" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="35px" height="35px" title="Selenium" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="35px" height="35px" title="Raspberry Pi" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="35px" height="35px" title="Arduino" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="35px" height="35px" title="Linux" />
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="30px" height="30px" title="Docker" />
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30px" height="30px" title="Git" />
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="30px" height="30px" title="OpenCV" />
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="30px" height="30px" title="Selenium" />
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="30px" height="30px" title="Raspberry Pi" />
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="30px" height="30px" title="Arduino" />
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="30px" height="30px" title="Linux" />
 </div>
 
 
 <div>  
   <a href=""> 
-    <img align="right" width="425" 
+    <img align="right" width="380" 
         src="https://github-readme-stats-sigma-five.vercel.app/api?username=mihkuno&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=21" /> 
   </a>
   
