@@ -39,9 +39,9 @@ Congratulations you found the first one!
 
 <h2 align="center"></h2>
 
-<img align="left" width="200" src="https://github.com/mihkuno/mihkuno/assets/26486389/c8550d8f-300e-4f79-8e46-cc865c8c08f4" alt="menhera motivation">
+<img align="left" width="180" src="https://github.com/mihkuno/mihkuno/assets/26486389/c8550d8f-300e-4f79-8e46-cc865c8c08f4" alt="menhera motivation">
 
-<img align="right" width="310" src="https://github.com/user-attachments/assets/b250eeb2-a19f-448c-9e77-adf04a161306" alt="hayasaka crying" />
+<img align="right" width="300" src="https://github.com/user-attachments/assets/b250eeb2-a19f-448c-9e77-adf04a161306" alt="hayasaka crying" />
 
 ### ✨ I Like  
 
