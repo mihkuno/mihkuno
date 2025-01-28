@@ -15,26 +15,39 @@ Congratulations you found the first one!
   <img src="https://komarev.com/ghpvc/?username=mihkuno&color=brightgreen" alt="watching_count" />
 </div>
 
-<img align="right" width="290" src="https://github.com/mihkuno/mihkuno/assets/26486389/44b33523-f4d0-45f3-92a4-bb0ea380eddd">
 
 
+# 👋 Hi, I'm Mihkuno!
+<img align="right" width="350" src="https://github.com/mihkuno/mihkuno/assets/26486389/44b33523-f4d0-45f3-92a4-bb0ea380eddd">
 
-### 👋 I'm mihkuno:
+🏫 Education
 
-&nbsp;&nbsp;&nbsp; 🏫 University of Science and Technology of Southern Philippines
+- University of Science and Technology of Southern Philippines
+- 🎓 3rd Year Computer Science Student
 
-&nbsp;&nbsp;&nbsp; 🎓 3rd Year Computer Science Student 
+### 🌟 Leadership Roles
+- Pioneer Assistant Core Lead, Computer Science Student Society (CS3), USTP
+- Pioneer Computer Science Lead, Google Developer Student Clubs (GDSC), USTP
 
-&nbsp;&nbsp;&nbsp; 🌱 Pioneer Asst. Core Lead of Computer Science Student Society USTP and Pioneer Computer Science Lead of Google Developer Student Clubs USTP
 
-&nbsp;&nbsp;&nbsp; 🧪 Constrataint Programming, Capture the Flag, Hacking, Internet of Things, Machine Learning, Computer Vision, Search Engine Optimization, Web and Mobile Development
+### 💻 Interests and Skills
+
+- Constraint Programming &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                         • Machine Learning (ML)  
+- Capture the Flag (CTF) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Computer Vision (CV)  
+- Internet of Things (IoT) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     • Search Engine Optimization (SEO)  
+- Web and Mobile Development
 
 <h2 align="center"></h2>
 
-<img align="left" width="147" src="https://github.com/mihkuno/mihkuno/assets/26486389/c8550d8f-300e-4f79-8e46-cc865c8c08f4">
+<img align="left" width="200" src="https://github.com/mihkuno/mihkuno/assets/26486389/c8550d8f-300e-4f79-8e46-cc865c8c08f4" alt="menhera motivation">
 
+<img align="right" width="350" src="https://github.com/user-attachments/assets/b250eeb2-a19f-448c-9e77-adf04a161306" alt="hayasaka crying" />
 
-✨ I like <code>Slice of life, Minecraft, Left 4 Dead, Watch Dogs, Battle Realms, Yanderes</code>
+### ✨ I Like  
+
+- Slice of Life&nbsp;&nbsp;&nbsp;            • Watch Dogs  
+- Minecraft&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                • Battle Realms  
+- Left 4 Dead&nbsp;&nbsp;&nbsp;              • Yanderes  
 
 💬 Ask me about literally anything!
 
@@ -42,22 +55,15 @@ Congratulations you found the first one!
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/quaxode)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihkuno/)
 
-<img align="right" width="220" src="https://tryhackme-badges.s3.amazonaws.com/joenino.cainday.png" alt="TryHackMe">
 
 <h2 align="center"></h2>
 
 ### Languages and Tools 🛠 
 
-
-<a href="">
-  <img align="left" width="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihkuno&theme=react&line_height=10&hide=css"/>
-</a>
-
-<a href="https://github.com/johannchopin/stackoverflow-readme-profile">
-  <img align='right' src="https://stackoverflow-readme-profile.johannchopin.fr/profile/12724665?theme=dark&website=true&location=true" alt="user:12724665's SO profile">
-</a>
+<img align="left" width="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihkuno&theme=react&line_height=10&hide=css"/>
 
 Programming Languages
+<img align="right" width="250" src="https://tryhackme-badges.s3.amazonaws.com/joenino.cainday.png" alt="TryHackMe">
 <div align='left'>
 &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="35px" height="35px" title="TypeScript" />
 &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35px" height="35px" title="JavaScript" />
@@ -66,8 +72,7 @@ Programming Languages
 &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35px" height="35px" title="Python" />
 &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="35px" height="35px" title="Java" />
 </div>
-<br>
-
+<img align='right' src="https://stackoverflow-readme-profile.johannchopin.fr/profile/12724665?theme=dark&website=true&location=true" width="250px" alt="mihkuno SO profile">
 
 Frameworks & Libraries
 <div align='left'>
