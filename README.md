@@ -5,8 +5,6 @@ Congratulations you found the first one!
 
 <img src="https://media1.tenor.com/m/8hCoqRtjEIEAAAAC/anime-header.gif" width="100%" alt="a boy and a girl are standing next to each other in an office">
 
-<h1>Hello, world!</h1>
-
 <div align="right">
   <a href="https://www.codewars.com/users/mihkuno">
     <img align="left" src="https://www.codewars.com/users/mihkuno/badges/small" alt="Codewars Badge" />
@@ -17,10 +15,10 @@ Congratulations you found the first one!
 
 
 
-# 👋 Hi, I'm Mihkuno!
+## 👋 Hi, I'm Mihkuno!
 <img align="right" width="350" src="https://github.com/mihkuno/mihkuno/assets/26486389/44b33523-f4d0-45f3-92a4-bb0ea380eddd">
 
-🏫 Education
+### 🏫 Education
 
 - University of Science and Technology of Southern Philippines
 - 🎓 3rd Year Computer Science Student
