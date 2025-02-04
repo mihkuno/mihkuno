@@ -3,7 +3,10 @@ Hi! This is an easter egg.
 Congratulations you found the first one!
 -->
 
-<img src="https://media1.tenor.com/m/8hCoqRtjEIEAAAAC/anime-header.gif" width="100%" alt="a boy and a girl are standing next to each other in an office">
+<!-- <img src="https://media1.tenor.com/m/8hCoqRtjEIEAAAAC/anime-header.gif" width="100%" alt="a boy and a girl are standing next to each other in an office"> -->
+<img src="https://github.com/user-attachments/assets/38af748c-d4cb-4bbe-83af-1a5fd156bf79" width="100%" alt="nokotan with nice view">
+
+<br>
 
 <div align="right">
   <a href="https://www.codewars.com/users/mihkuno">
