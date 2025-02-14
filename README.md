@@ -36,7 +36,7 @@ Congratulations you found the first one!
 - Constraint Programming &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                         • Machine Learning (ML)  
 - Capture the Flag (CTF) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Computer Vision (CV)  
 - Internet of Things (IoT) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     • Search Engine Optimization (SEO)  
-- Web and Mobile Development
+- Web & Mobile Dev &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Freelancing
 
 <h2 align="center"></h2>
 
