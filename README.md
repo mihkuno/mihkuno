@@ -21,22 +21,27 @@ Congratulations you found the first one!
 ## 👋 Hi, I'm Mihkuno!
 <img align="right" width="350" src="https://github.com/mihkuno/mihkuno/assets/26486389/44b33523-f4d0-45f3-92a4-bb0ea380eddd">
 
-### 🏫 Education
+### 🏫 Education  
+- 🎓 **University of Science and Technology of Southern Philippines**  
+- 📚 3rd Year Computer Science Student  
 
-- University of Science and Technology of Southern Philippines
-- 🎓 3rd Year Computer Science Student
+### 🔍 Interests  
+- 💙 Philanthropy | 🛡️ Ethical Hacking | 🕵️ Open-Source Intelligence  
 
-### 🌟 Leadership Roles
+
+### 🌟 Experiences
+- Over 100+ comission-based projects accumulating around 80k pesos (2023-2024)
 - Pioneer Assistant Core Lead, Computer Science Student Society (CS3), USTP
 - Pioneer Computer Science Lead, Google Developer Student Clubs (GDSC), USTP
 
 
-### 💻 Interests and Skills
+### 💻 Technical Skills
 
 - Constraint Programming &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                         • Machine Learning (ML)  
 - Capture the Flag (CTF) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Computer Vision (CV)  
-- Internet of Things (IoT) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     • Search Engine Optimization (SEO)  
-- Web & Mobile Dev &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Freelancing
+- Internet of Things (IoT) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     • Server-Side Rendering (SSR)  
+- Web & Mobile Dev &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Retrieval-Augmented Generation (RAG)
+- Freelancing
 
 <h2 align="center"></h2>
 
