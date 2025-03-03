@@ -30,7 +30,7 @@ Congratulations you found the first one!
 
 
 ### 🌟 Experiences
-- Over 100+ comission-based projects accumulating around 80k pesos (2023-2024)
+- Over 100+ comission-based projects accumulating 80k pesos (2023-2025)
 - Pioneer Assistant Core Lead, Computer Science Student Society (CS3), USTP
 - Pioneer Computer Science Lead, Google Developer Student Clubs (GDSC), USTP
 
