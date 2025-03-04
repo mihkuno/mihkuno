@@ -26,7 +26,7 @@ Congratulations you found the first one!
 - 📚 3rd Year Computer Science Student  
 
 ### 🔍 Interests  
-- 💙 Philanthropy | 🛡️ Ethical Hacking | 🕵️ Open-Source Intelligence  
+- 💙 Philanthropy | 🛡️ Ethical Hacking | 🕵️ Open-Source Intelligence | 🤖 AI Robotics
 
 
 ### 🌟 Experiences
