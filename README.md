@@ -26,11 +26,11 @@ Congratulations you found the first one!
 - 📚 3rd Year Computer Science Student  
 
 ### 🔍 Interests  
-- 💙 Philanthropy | 🛡️ Ethical Hacking | 🕵️ Open-Source Intelligence | 🤖 AI Robotics
+- 💙 Philanthropy | 🛡️ Ethical Hacking | 🕵️ Open-Source Intelligence | 🤖 AI Robotics | 🌐 Distributed Computing
 
 
 ### 🌟 Experiences
-- Over 100+ comission-based projects accumulating 80k pesos (2023-2025)
+- Over 100+ comission-based projects (2023-2025)
 - Pioneer Assistant Core Lead, Computer Science Student Society (CS3), USTP
 - Pioneer Computer Science Lead, Google Developer Student Clubs (GDSC), USTP
 
@@ -106,6 +106,7 @@ Tools & Technologies
 &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="30px" height="30px" title="Raspberry Pi" />
 &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="30px" height="30px" title="Arduino" />
 &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="30px" height="30px" title="Linux" />
+  &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="30px" height="30px" title="Kubernetes" />
 </div>
 
 
