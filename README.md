@@ -103,7 +103,9 @@ Tools & Technologies
 &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="30px" height="30px" title="Raspberry Pi" />
 &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="30px" height="30px" title="Arduino" />
 &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="30px" height="30px" title="Linux" />
-  &nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="30px" height="30px" title="Kubernetes" />
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="30px" height="30px" title="Kubernetes" />
+&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" alt="Firebase" width="30px" height="30px" title="Firebase" />
+
 </div>
 
 
