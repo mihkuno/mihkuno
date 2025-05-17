@@ -74,7 +74,7 @@ Congratulations you found the first one!
 
 #### Frameworks & Libraries
 
-[![My Skills](https://skillicons.dev/icons?i=svelte,sveltekit,pytorch,react,nextjs,express,tailwind,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,pytorch,react,nextjs,express,tailwind,threejs)](https://skillicons.dev)
 
 <br>
 
