@@ -65,48 +65,22 @@ Congratulations you found the first one!
 
 <img align="left" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihkuno&theme=react&line_height=10&hide=css"/>
 
-Programming Languages
+#### Programming Languages
 <img align="right" width="220" src="https://tryhackme-badges.s3.amazonaws.com/joenino.cainday.png" alt="TryHackMe">
-<div align='left'>
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30px" height="30px" title="TypeScript" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30px" height="30px" title="JavaScript" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="30px" height="30px" title="C#" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30px" height="30px" title="C++" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30px" height="30px" title="Python" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30px" height="30px" title="Java" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30px" height="30px" title="MySQL" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30px" height="30px" title="MongoDB" />
-</div>
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,cs,cpp,python,java)](https://skillicons.dev)
+
 <img align='right' src="https://stackoverflow-readme-profile.johannchopin.fr/profile/12724665?theme=dark&website=true&location=true" width="220px" alt="mihkuno SO profile">
 
-Frameworks & Libraries
-<div align='left'>
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="Pytorch" width="30px" height="30px" title="Pytorch" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30px" height="30px" title="React" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30px" height="30px" title="Next.js" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="30px" height="30px" title="Express.js" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="30px" height="30px" title="Pandas" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="30px" height="30px" title="Matplotlib" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Threejs" width="30px" height="30px" title="Threejs" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" alt="Framermotion" width="30px" height="30px" title="Framermotion" />
-</div>
+#### Frameworks & Libraries
+
+[![My Skills](https://skillicons.dev/icons?i=svelte,sveltekit,pytorch,react,nextjs,express,tailwind,threejs)](https://skillicons.dev)
+
 <br>
 
-Tools & Technologies
-<div align='left'>
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" alt="Deno" width="30px" height="30px" title="Deno" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30px" height="30px" title="Node.js" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="30px" height="30px" title="Docker" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30px" height="30px" title="Git" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="30px" height="30px" title="OpenCV" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="30px" height="30px" title="Selenium" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="30px" height="30px" title="Raspberry Pi" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="30px" height="30px" title="Arduino" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="30px" height="30px" title="Linux" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="30px" height="30px" title="Kubernetes" />
-&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" alt="Firebase" width="30px" height="30px" title="Firebase" />
+#### Tools & Technologies
 
-</div>
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,deno,nodejs,docker,git,opencv,raspberrypi,arduino,linux,kubernetes,firebase,redis)](https://skillicons.dev)
 
 
 <div>  
@@ -128,9 +102,3 @@ Tools & Technologies
 </div>
 
 </div>
-
-
-
-
-
-
