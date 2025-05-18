@@ -63,7 +63,7 @@ Congratulations you found the first one!
 
 ### Languages and Tools 🛠 
 
-<img align="left" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihkuno&theme=react&line_height=10&hide=css"/>
+<img align="left" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihkuno&theme=dracula&line_height=10&hide=css,jupyter%20notebook"/>
 
 #### Programming Languages
 <img align="right" width="220" src="https://tryhackme-badges.s3.amazonaws.com/joenino.cainday.png" alt="TryHackMe">
