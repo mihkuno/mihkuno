@@ -44,61 +44,31 @@ Congratulations you found the first one!
 
 <img align="left" width="180" src="https://github.com/mihkuno/mihkuno/assets/26486389/c8550d8f-300e-4f79-8e46-cc865c8c08f4" alt="menhera motivation">
 
-<img align="right" width="300" src="https://github.com/user-attachments/assets/b250eeb2-a19f-448c-9e77-adf04a161306" alt="hayasaka crying" />
+<img align='right' width="250" src="https://github.com/user-attachments/assets/b250eeb2-a19f-448c-9e77-adf04a161306" alt="hayasaka crying" />
 
 ### ✨ I Like  
 
 - Slice of Life&nbsp;&nbsp;&nbsp;            • Watch Dogs  
 - Minecraft&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                • Battle Realms  
-- Left 4 Dead&nbsp;&nbsp;&nbsp;              • Yanderes  
+- Left 4 Dead&nbsp;&nbsp;&nbsp;              • Yanderes
 
-💬 Ask me about literally anything!
+<br/>
+<img align='right' src="https://stackoverflow-readme-profile.johannchopin.fr/profile/12724665?theme=dark&website=true&location=true" width="250px" alt="mihkuno SO profile">
+
+💬 Ask me about anything
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caindayjoeninyo@gmail.com)
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/quaxode)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihkuno/)
 
-
 <h2 align="center"></h2>
 
-### Languages and Tools 🛠 
+### 🛠 Tech Stack  
+<img align='right' src="https://skillicons.dev/icons?i=svelte,ts,js,cs,cpp,python,firebase,mongodb,googlecloud,nextjs,redis,p5js,java,dart,pytorch,react,express,tailwind,threejs,mysql,deno,nodejs,docker,git,opencv,raspberrypi,arduino,linux,kubernetes,ubuntu,flutter,selenium,vite&perline=8" width="550"/>
 
-<img align="left" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihkuno&theme=dracula&line_height=10&hide=css,jupyter%20notebook"/>
-
-#### Programming Languages
-<img align="right" width="220" src="https://tryhackme-badges.s3.amazonaws.com/joenino.cainday.png" alt="TryHackMe">
-
-[![My Skills](https://skillicons.dev/icons?i=ts,js,cs,cpp,python,java)](https://skillicons.dev)
-
-<img align='right' src="https://stackoverflow-readme-profile.johannchopin.fr/profile/12724665?theme=dark&website=true&location=true" width="220px" alt="mihkuno SO profile">
-
-#### Frameworks & Libraries
-
-[![My Skills](https://skillicons.dev/icons?i=svelte,pytorch,react,nextjs,express,tailwind,threejs)](https://skillicons.dev)
-
-<br>
-
-#### Tools & Technologies
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,deno,nodejs,docker,git,opencv,raspberrypi,arduino,linux,kubernetes,firebase,redis)](https://skillicons.dev)
+<img align="left" width="350" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mihkuno&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&line_height=20" /> 
+<br/><br/><br/><br/><br/><br/>
+<img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihkuno&layout=donut&theme=dracula&line_height=5&hide=css,jupyter%20notebook"/>
 
 
-<div>  
-  <a href=""> 
-    <img align="right" width="380" 
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=mihkuno&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=21" /> 
-  </a>
   
-  
-<div align="left">
-    <h5>Fun fact: I solved the world's oldest question with a single line of Javascript code</h5>
-  <!-&nbspwi*quL3fcV -->
-
-  ```python
-  # Which came first: the chicken or egg?
-  print(['🥚', '🐣', '🐥', '🐔'].sort())
-  >>> [ '🐔', '🐣', '🐥', '🥚' ]
-  ```
-</div>
-
-</div>
