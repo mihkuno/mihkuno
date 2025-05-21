@@ -55,7 +55,7 @@ Congratulations you found the first one!
 <h2 align="center"></h2>
 
 ### 🛠 Tech Stack  
-<img align='right' src="https://skillicons.dev/icons?i=svelte,ts,js,cs,cpp,python,firebase,mongodb,googlecloud,nextjs,redis,p5js,java,dart,pytorch,react,express,tailwind,threejs,mysql,deno,nodejs,docker,git,opencv,raspberrypi,arduino,linux,kubernetes,ubuntu,flutter,selenium,vite&perline=12" width="460"/>
+<img align='right' src="https://skillicons.dev/icons?i=svelte,ts,js,cs,cpp,python,firebase,mongodb,googlecloud,nextjs,redis,p5js,java,dart,pytorch,react,express,tailwind,threejs,mysql,deno,nodejs,docker,git,opencv,raspberrypi,arduino,linux,kubernetes,ubuntu,flutter,selenium,vite&perline=11" width="460"/>
 
 
 <img align="left" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihkuno&layout=donut-vertical&theme=dracula&line_height=20&hide=css,jupyter%20notebook"/>
@@ -69,6 +69,6 @@ Congratulations you found the first one!
 <br/>
 <br/>
 <br/>
-<img align="right" width="460" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mihkuno&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&line_height=15" /> 
+<img align="right" width="460" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mihkuno&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&line_height=17" /> 
 
   
