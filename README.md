@@ -31,7 +31,9 @@ Congratulations you found the first one!
 - Web & Mobile Dev &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Retrieval-Augmented Generation (RAG)
 - Distributed Computing &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        • Server-Side Rendering (SSR) 
 
+<br/>
 <h2 align="center"></h2>
+<br/>
 
 <img align="left" width="180" src="https://github.com/mihkuno/mihkuno/assets/26486389/c8550d8f-300e-4f79-8e46-cc865c8c08f4" alt="menhera motivation">
 
@@ -52,10 +54,12 @@ Congratulations you found the first one!
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/quaxode)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihkuno/)
 
+<br/>
 <h2 align="center"></h2>
+<br/>
 
 ### 🛠 Tech Stack  
-<img align='right' src="https://skillicons.dev/icons?i=svelte,ts,js,cs,cpp,python,firebase,mongodb,googlecloud,nextjs,redis,p5js,java,dart,pytorch,react,express,tailwind,threejs,mysql,deno,nodejs,docker,git,opencv,raspberrypi,arduino,linux,kubernetes,ubuntu,flutter,selenium,vite&perline=10" width="450"/>
+<img align='right' src="https://skillicons.dev/icons?i=svelte,ts,js,cs,cpp,python,firebase,mongodb,googlecloud,nextjs,redis,p5js,java,dart,pytorch,react,express,tailwind,threejs,mysql,deno,nodejs,docker,git,opencv,raspberrypi,arduino,linux,kubernetes,ubuntu,flutter,selenium,vite&perline=10" width="470"/>
 
 
 <img align="left" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihkuno&layout=donut-vertical&theme=dracula&line_height=20&hide=css,jupyter%20notebook"/>
@@ -67,9 +71,8 @@ Congratulations you found the first one!
 <br/>
 <br/>
 <br/>
-
 <br/>
 <br/>
-<img align="right" width="450" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mihkuno&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&line_height=20" /> 
+<img align="right" width="470" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mihkuno&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&line_height=15" /> 
 
   
