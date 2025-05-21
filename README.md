@@ -16,13 +16,12 @@ Congratulations you found the first one!
   <img src="https://komarev.com/ghpvc/?username=mihkuno&color=brightgreen" alt="watching_count" />
 </div>
 
-## 👋 Hi, I'm Mihkuno!
 <img align="right" width="350" src="https://github.com/mihkuno/mihkuno/assets/26486389/44b33523-f4d0-45f3-92a4-bb0ea380eddd">
+
+## 👋 Hi, I'm Mihkuno!
 
 ### 🏫 Education  
 - 🎓 **University of Science and Technology of Southern Philippines**  
-
-<br/>
 
 ### 💻 Technical Skills
 
