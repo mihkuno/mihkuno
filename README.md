@@ -58,7 +58,7 @@ Congratulations you found the first one!
 <img align='right' src="https://skillicons.dev/icons?i=svelte,ts,js,cs,cpp,python,firebase,mongodb,googlecloud,nextjs,redis,p5js,java,dart,pytorch,react,express,tailwind,threejs,mysql,deno,nodejs,docker,git,opencv,raspberrypi,arduino,linux,kubernetes,ubuntu,flutter,selenium,vite&perline=14" width="450"/>
 
 
-<img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihkuno&layout=donut-vertical&theme=dracula&line_height=20&hide=css,jupyter%20notebook"/>
+<img align="left" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihkuno&layout=donut-vertical&theme=dracula&line_height=20&hide=css,jupyter%20notebook"/>
 
 <br/>
 <br/>
