@@ -64,11 +64,11 @@ Congratulations you found the first one!
 <h2 align="center"></h2>
 
 ### 🛠 Tech Stack  
-<img align='right' src="https://skillicons.dev/icons?i=svelte,ts,js,cs,cpp,python,firebase,mongodb,googlecloud,nextjs,redis,p5js,java,dart,pytorch,react,express,tailwind,threejs,mysql,deno,nodejs,docker,git,opencv,raspberrypi,arduino,linux,kubernetes,ubuntu,flutter,selenium,vite&perline=8" width="300"/>
+<img align='right' src="https://skillicons.dev/icons?i=svelte,ts,js,cs,cpp,python,firebase,mongodb,googlecloud,nextjs,redis,p5js,java,dart,pytorch,react,express,tailwind,threejs,mysql,deno,nodejs,docker,git,opencv,raspberrypi,arduino,linux,kubernetes,ubuntu,flutter,selenium,vite&perline=10" width="400"/>
 
-<img align="left" width="350" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mihkuno&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&line_height=20" /> 
-<br/><br/><br/><br/><br/><br/>
-<img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihkuno&layout=donut&theme=dracula&line_height=5&hide=css,jupyter%20notebook"/>
+<img align="left" width="250" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mihkuno&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&line_height=20" /> 
+<br/><br/><br/><br/>
+<img align="left" width="250" height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihkuno&layout=compact&theme=dracula&line_height=5&hide=css,jupyter%20notebook"/>
 
 
   
