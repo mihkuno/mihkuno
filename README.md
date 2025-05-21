@@ -69,6 +69,6 @@ Congratulations you found the first one!
 <br/>
 <br/>
 <br/>
-<img align="right" width="460" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mihkuno&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&line_height=17" /> 
+<img align="right" width="460" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mihkuno&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&line_height=20" /> 
 
   
