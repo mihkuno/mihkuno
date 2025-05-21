@@ -64,7 +64,7 @@ Congratulations you found the first one!
 <h2 align="center"></h2>
 
 ### 🛠 Tech Stack  
-<img align='right' src="https://skillicons.dev/icons?i=svelte,ts,js,cs,cpp,python,firebase,mongodb,googlecloud,nextjs,redis,p5js,java,dart,pytorch,react,express,tailwind,threejs,mysql,deno,nodejs,docker,git,opencv,raspberrypi,arduino,linux,kubernetes,ubuntu,flutter,selenium,vite&perline=8" width="550"/>
+<img align='right' src="https://skillicons.dev/icons?i=svelte,ts,js,cs,cpp,python,firebase,mongodb,googlecloud,nextjs,redis,p5js,java,dart,pytorch,react,express,tailwind,threejs,mysql,deno,nodejs,docker,git,opencv,raspberrypi,arduino,linux,kubernetes,ubuntu,flutter,selenium,vite&perline=8" width="300"/>
 
 <img align="left" width="350" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mihkuno&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&line_height=20" /> 
 <br/><br/><br/><br/><br/><br/>
