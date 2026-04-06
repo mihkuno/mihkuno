@@ -25,7 +25,7 @@ Congratulations you found the first one!
 
 ### 💻 Technical Skills
 
-- Constraint Programming &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                         • Machine Learning (ML)  
+- Operational Research (COP, CSP) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                         • Machine Learning (ML)  
 - Capture the Flag (CTF) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Computer Vision (CV)  
 - Internet of Things (IoT) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     • Server-Side Rendering (SSR)  
 - Web & Mobile Dev &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Retrieval-Augmented Generation (RAG)
